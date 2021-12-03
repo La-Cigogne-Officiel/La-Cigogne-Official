@@ -1,0 +1,51 @@
+.card {
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.about-us-page .row{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.about-us-page .title{
+  text-align: center;
+  margin: 0 auto 80px;
+  position: relative;
+  line-height: 60px;
+  font-size: 40px;
+}
+
+.about-us-page .col-3{
+  flex-basis: 25%;
+  min-width: 250px;
+  margin-bottom: 30px;
+  transition: transform 0.5s;
+}
+
+.Alita img {
+  border-radius: 50%;
+  width: 200px;
+  border: 10px solid #F38181;
+}
+
+.Victorien img {
+  border-radius: 50%;
+  width: 200px;
+  border: 10px solid #F38181;
+}
+
+.Léa img {
+  border-radius: 50%;
+  width: 200px;
+  border: 10px solid #F38181;
+}
+
+.Katelle img {
+  border-radius: 50%;
+  width: 200px;
+  border: 10px solid #F38181;
+}
+

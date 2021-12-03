@@ -1,0 +1,86 @@
+.wrapper {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: center;
+    background-color: #F38181;
+    -webkit-box-shadow: 9px 13px 25px 0px rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: 9px 13px 25px 0px rgba(0, 0, 0, 0.18);
+    box-shadow: 9px 13px 25px 0px rgba(0, 0, 0, 0.18);
+}
+
+.cartes-bancaires {
+	width: 250px;
+	position: absolute;
+	height: 29px;
+	left: 720px;
+	top: 750px; 
+}
+
+.fillette {
+	position: absolute;
+	width: 66px;
+	height: 71px;
+	left: 450px;
+	top: 100px;
+	background: url(.jpg);
+	border: 0.5px solid #2E2C2C;
+	box-sizing: border-box;
+}
+
+.informations {
+	position: absolute;
+	width: 551px;
+	height: 29px;
+	left: 500px;
+	top: 500px; background: #FCE38A;
+	border: 1px solid #2E2C2C;
+	box-sizing: border-box;
+	border-radius: 7px;
+	font-family: Dosis;
+}
+
+
+.payment {
+	position: absolute;
+	width: 555px;
+	height: 29px;
+	left: 500px;
+	top: 700px;
+	background: #95E1D3;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	border-radius: 7px;
+	font-family: Dosis;
+
+}
+
+.delivery{
+	position: absolute;
+	width: 555px;
+	height: 29px;
+	left: 500px;
+	top: 975px;
+	background: #B5D888;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	border-radius: 7px;
+	font-family: Dosis;
+
+}
+
+.confirm-order {
+	position: absolute;
+	width: 159px;
+	height: 50px;
+	left: 1100px;
+	top: 1115px;
+	background: #F38181;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	border-radius: 15px;
+	font-family: Dosis;
+	text-align: center;
+	vertical-align: middle;
+}

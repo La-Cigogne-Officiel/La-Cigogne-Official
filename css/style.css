@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis&family=Lora&family=Roboto:wght@300&display=swap");
+
+@import url("components/clothes_dresses.css");
+@import	url("components/container.css");
+/*header*/
+@import url("components/scrollmenu.css");
+@import url("components/logo.css");
+@import url("components/search-bar.css");
+@import url("components/corner-header.css");
+/*contact-us*/
+@import url("components/contact-us-form.css");
+/*footer*/
+@import url("components/bottom-footer.css");
+@import url("components/banners.css");
+@import url("components/btn-white.css");
+/*product-page*/
+@import url("components/pictures.css");
+@import url("components/btn-sizes.css");
+@import url("components/btn-add-to-cart.css");
+@import url("components/product_red_dress.css");
+@import url("components/about-us.css");
+@import url("components/payment.css");
+@import url("components/shopping_cart.css");
+
+
+body{
+	font-family: 'Dosis', serif;
+	font-size: 18px;
+	margin: auto;
+	background-color: #FFFFFF;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Dosis', sans-serif;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}
+
+.container{
+  max-width: 1300px;
+  margin: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: #FFFFFF;
+}
+
